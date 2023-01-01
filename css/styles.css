@@ -41,14 +41,14 @@ body {
     font-style: 'Pacifico', cursive;
     font-weight: 400;
     text-align: center;
-    color: #FFFFFF;
+    color: #9c0e0e;
     text-shadow: 0px 4px 4px rgba(160, 3, 3, 0.75);
 }
 
 .header-container {
     padding-top: 50px;
     padding-bottom: 50px;
-    background: #2E2F42;
+    background: linear-gradient(to right, rgb(156, 147, 147) 15%, rgb(189, 188, 185) 30% 70%,rgb(156, 147, 147) 85% 100%)
 }
 
 .heart-btn {
